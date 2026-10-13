@@ -1,0 +1,8 @@
+{
+  "name": "AI Job Search GUI",
+  "description": "Desktop-grade web GUI for AI Job Search to scrape portals, rank job matches, track applications, benchmark Danish salaries, and tailor CVs and cover letters.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
